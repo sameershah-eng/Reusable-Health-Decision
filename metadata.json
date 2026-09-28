@@ -1,0 +1,6 @@
+{
+  "name": "Clara Health - Women's Health Decision Support",
+  "description": "A calm, guided decision-support framework for women's health choices, featuring structured context, evidence synthesis, decision briefs, and longitudinal reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
